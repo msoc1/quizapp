@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+
+    <string name="firstQuestion">What is Poland Capital?</string>
+    <string name="firstQuestionHint">Capital…</string>
+
+    <string name="secondQuestion">Neighbours of Poland are:</string>
+    <string name="secondQuestionFirstAnswer">Germany</string>
+    <string name="secondQuestionSecondAnswer">France</string>
+    <string name="secondQuestionThirdAnswer">Mexico</string>
+    <string name="secondQuestionFourthAnswer">Ukraine</string>
+
+    <string name="third_question">Does Poland has access to the sea?</string>
+    <string name="third_question_yes">Yes</string>
+    <string name="third_question_no">No</string>
+
+    <string name="fourth_question">Traditional Polish dishes are:</string>
+
+    <string name="background_picture_description">background picture not scrollable</string>
+    <string name="show_score">SHOW SCORE</string>
+</resources>
